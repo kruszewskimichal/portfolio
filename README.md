@@ -1,41 +1,38 @@
-  # MICHAŁ KRUSZEWSKI
-  DATA SCIENCE | MACHINE LEARNING STUDENT
-  
-  kruszewski.mich@gmail.com
+# MICHAŁ KRUSZEWSKI
+DATA SCIENCE | MACHINE LEARNING STUDENT
 
-  ## Bsc Diploma Project
-  Dog Emotion Detection in Videos with Reverse FACS Analysis
-  
-  [link](https://github.com/lumarcinkowski/dogFACS)
+kruszewski.mich@gmail.com
 
-  ## Master's degree projects
+## B.Sc. Diploma Project
 
-  ### News Article Classification
-  [link](https://github.com/MichalKru/News-Article-Classification)
+### Dog Emotion Detection in Videos with Reverse FACS Analysis
+[GitHub Repository](https://github.com/lumarcinkowski/dogFACS)
 
-  ### Data Pattern Discovery with PCA & SVM
-  PCA - [link](https://github.com/MichalKru/PCA-project)
-  
-  SVM - [link](https://github.com/MichalKru/SVD-project)
+## Master's Degree Projects
 
-  ### PageRank Algorithm Implementation
-  [link](https://github.com/MichalKru/PageRank)
-  
-  ### Reinforcement Learning Algorithms Implementation & Comparison
-  [link](https://github.com/MichalKru/FAIML_project)
+### News Article Classification
+[GitHub Repository](https://github.com/MichalKru/News-Article-Classification)
 
-  ## Bachelor's degree projects
+### Data Pattern Discovery with PCA & SVM
+[PCA – GitHub Repository](https://github.com/MichalKru/PCA-project)  
+[SVM – GitHub Repository](https://github.com/MichalKru/SVD-project)
 
-  ### Cyber-Physical System for Dog Tracking and Emotion Prediction
-  [link](https://git.pg.edu.pl/p1353132/doggy-monitor)
+### PageRank Algorithm Implementation
+[GitHub Repository](https://github.com/MichalKru/PageRank)
 
-  ### Bayesian Network for Document Classification
-  [link](https://github.com/MichalKru/Naive-Bayes-Text-Classification)
+### Reinforcement Learning Algorithms: Implementation & Comparison
+[GitHub Repository](https://github.com/MichalKru/FAIML_project)
 
-  ### Image Processing Filters
-  [link](https://github.com/MichalKru/morphological-transformations-project)
+## Bachelor's Degree Projects
 
-  ### 3D Warehouse Model
-  [link](https://github.com/MichalKru/Warehouse-3D)
+### Cyber-Physical System for Dog Tracking and Emotion Prediction
+[GitLab Repository](https://git.pg.edu.pl/p1353132/doggy-monitor)
 
+### Bayesian Network for Document Classification
+[GitHub Repository](https://github.com/MichalKru/Naive-Bayes-Text-Classification)
 
+### Image Processing Filters
+[GitHub Repository](https://github.com/MichalKru/morphological-transformations-project)
+
+### 3D Warehouse Model
+[GitHub Repository](https://github.com/MichalKru/Warehouse-3D)
